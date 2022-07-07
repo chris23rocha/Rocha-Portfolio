@@ -68,6 +68,11 @@ It is used to align the flex items; in our case, the product cards
   justify-content: center;
 }
 
+#self-pic {
+  width: 95%
+}
+
+
 /* 
 What is the flex property a shorthand property for?
 It is a shorthand property for the flex-grow, flex-shrink, and flex-basis properties 
